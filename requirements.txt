@@ -1,0 +1,4 @@
+flask
+Flask-GraphQL==2.0.1
+graphene==2.1.8
+gunicorn
